@@ -9,7 +9,7 @@
 
 <header>
 	<div id="logo">
-		<img src="logo.jpg" alt="Ocellus AB logo" height="100" width="400"/>
+		<img src="logo.jpg" alt="GIN logo" height="100" width="400"/>
 	</div>
 </header>
 
@@ -50,4 +50,5 @@
 				<input type="Submit" value="Skicka"/>
 			<input type="reset" value="Rensa"/>
 		</form>
+
 	</html>
